@@ -2,6 +2,8 @@
 
 A demo showing how to drive AutoCAD from GitHub Copilot using the [AutoCAD MCP Pro](https://github.com/U-C4N/Autocad-MCP) MCP server. Copilot connects to a live AutoCAD session and issues drawing commands (shapes, layers, colors, etc.) through natural-language prompts.
 
+> 🧪 Tested with **AutoCAD 2027 Trial version**.
+
 ## 🔌 MCP Server
 
 Repository: https://github.com/U-C4N/Autocad-MCP
