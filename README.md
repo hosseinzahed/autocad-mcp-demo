@@ -63,3 +63,11 @@ Another example generated through the same MCP session, drawing a set of concent
 
 ![Second example](outputs/second-example.png)
 
+### 🏎️ Bugatti Veyron 16.4
+
+**Prompt:** Use the autocad-mcp to create a 3D design of a Bugatti Veyron 16.4
+
+**Model:** GPT 5.6 Astra
+
+![Bugatti Veyron 16.4](outputs/bugatti.png)
+
